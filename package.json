@@ -1,0 +1,26 @@
+{
+  "name": "screeps-tutorial",
+  "version": "1.0.0",
+  "description": "Screeps Tutorial Files",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Val3ry-Gaius/Screeps-Tutorial.git"
+  },
+  "author": "Val3ry-Gaius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Val3ry-Gaius/Screeps-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Val3ry-Gaius/Screeps-Tutorial#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
